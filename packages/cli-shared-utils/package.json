@@ -1,6 +1,6 @@
 {
   "name": "@apulis-mo-demo/cli-shared-utils",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "> TODO: description",
   "author": "hanjf <jiangfeng.han@apulis.com>",
   "homepage": "",
@@ -23,5 +23,5 @@
     "chalk": "^5.0.0",
     "semver": "^7.3.5"
   },
-  "gitHead": "d478d2e2ab69dc57a4e7d9c154b7c54ce25681a4"
+  "gitHead": "7fa8623b1568094f9f242a6f83aeb52555e4a8e4"
 }
