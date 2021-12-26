@@ -1,6 +1,6 @@
 {
   "name": "@apulis-mo-demo/cli",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "> TODO: description",
   "author": "hanjf <jiangfeng.han@apulis.com>",
   "homepage": "",
@@ -20,7 +20,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@apulis-mo-demo/cli-shared-utils": "^0.0.3",
+    "@apulis-mo-demo/cli-shared-utils": "^0.0.4",
     "chalk": "^5.0.0"
   },
   "gitHead": "d986fe3097b22a3d5b233ee66256c17d291aa1a3"
