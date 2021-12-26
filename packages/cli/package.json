@@ -20,7 +20,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@apulis-mo-demo/cli-shared-utils": "^0.0.4",
+    "apulis-mo-demo-cli-shared-utils": "^0.0.5",
     "chalk": "^5.0.0"
   },
   "gitHead": "f9ee3f7bdf020d52189b06719f39276642ac02bb"
